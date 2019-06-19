@@ -5,19 +5,24 @@ Another very great way to learn Deep learning via MXNet is reading the book avai
 
 Hands down to authors.
 - Aston Zhang
+
   Amazon Applied Scientist
   UIUC Ph.D.
 
 - Zack C. Lipton
+
   Amazon Applied Scientist
   CMU Assistant Professor
   UCSD Ph.D.
 
 - Mu Li
+
   Amazon Principal Scientist
   CMU Ph.D.
 
 - Alex J. Smola
+
   Amazon VP/Distinguished Scientist
   TU Berlin Ph.D.
+
 Thanks for all your contribution to the field so far.
