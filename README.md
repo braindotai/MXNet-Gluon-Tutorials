@@ -7,26 +7,30 @@ Hands down to these wonder full authors.
 
 - Aston Zhang
 
-  ![](https://www.d2l.ai/_images/aston.jpg | width = 100)
+  <img src="https://www.d2l.ai/_images/aston.jpg" width="250">
+  
   Amazon Applied Scientist
   UIUC Ph.D.
 
 - Zack C. Lipton
   
-  ![](https://www.d2l.ai/_images/zack.jpg | width = 100)
+  <img src="https://www.d2l.ai/_images/zack.jpg" width="250">
+
   Amazon Applied Scientist
   CMU Assistant Professor
   UCSD Ph.D.
 
 - Mu Li
 
-  ![](https://www.d2l.ai/_images/aston.jpg | width = 100)
+  <img src="https://www.d2l.ai/_images/mu.jpg" width="250">
+  
   Amazon Principal Scientist
   CMU Ph.D.
 
 - Alex J. Smola
 
-  ![](https://www.d2l.ai/_images/alex.jpg | width = 100)
+  <img src="https://www.d2l.ai/_images/alex.jpg" width="250">
+  
   Amazon VP/Distinguished Scientist
   TU Berlin Ph.D.
 
