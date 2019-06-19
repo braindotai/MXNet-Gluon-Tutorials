@@ -3,25 +3,30 @@ MXNet Gluon offers easy to build, prototype, debug and deployment for deep learn
 
 Another very great way to learn Deep learning via MXNet is reading the book available for free at https://www.d2l.ai/. The authors provided very crystal clear explanations and implementation of novel deep learning approaches and models. Just go and check it out.
 
-Hands down to authors.
+Hands down to these wonder full authors.
+
 - Aston Zhang
 
+  ![alt text](https://www.d2l.ai/_images/aston.jpg)
   Amazon Applied Scientist
   UIUC Ph.D.
 
 - Zack C. Lipton
-
+  
+  ![alt text](https://www.d2l.ai/_images/zack.jpg)
   Amazon Applied Scientist
   CMU Assistant Professor
   UCSD Ph.D.
 
 - Mu Li
 
+  ![alt text](https://www.d2l.ai/_images/aston.jpg)
   Amazon Principal Scientist
   CMU Ph.D.
 
 - Alex J. Smola
 
+  ![alt text](https://www.d2l.ai/_images/alex.jpg)
   Amazon VP/Distinguished Scientist
   TU Berlin Ph.D.
 
